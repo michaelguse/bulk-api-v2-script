@@ -53,7 +53,7 @@ In my case, only the JSON.sh needed to be added to my environment, as all the ot
 
 I hope this README helps with the overall usage of the provided scripts and they are meant to be used as-is and at your own risk. 
 
-But I am happy to assist in case you are running into some unexpected behaviors. Please log your reproducible problem/issue/bug  against the repository as a [New Issue]().
+But I am happy to assist in case you are running into some unexpected behaviors. Please log your reproducible problem/issue/bug  against the repository as a [New Issue](https://github.com/michaelguse/bulk-api-v2-script/issues/new/choose).
 
 
 I hope these scripts will be of some help to someone out there.
